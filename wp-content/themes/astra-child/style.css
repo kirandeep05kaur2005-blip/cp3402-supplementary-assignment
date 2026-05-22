@@ -1,0 +1,27 @@
+/*
+Theme Name: Astra Child
+Template: astra
+Version: 1.0
+Author: Kirandeep Kaur
+*/
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.site-header {
+    background-color: #0f172a;
+}
+
+h1, h2, h3 {
+    color: #1e293b;
+}
+
+a {
+    color: #2563eb;
+}
+
+.main-header-menu a {
+    font-weight: bold;
+}
